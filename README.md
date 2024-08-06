@@ -1,7 +1,9 @@
 # About
+GLSL School（10期）で配布された`stable-fluids`のコード（vanilla webgl）を、three.jsで実装し直しました。<br />
+shaderは、glsl es 3.0を使用しています。
 
 https://nemutas.github.io/stable-fluids/
 
-<img src='https://github.com/nemutas/stable-fluids/assets/46724121/0a1b8df1-993a-4cdf-97c9-889b3f36b336' alt='' width='700' />
+<img src='https://github.com/user-attachments/assets/f5d144af-6ff6-4eef-b0aa-b5dbc7f3e5df' alt='' width='700' />
 
-inspired by [CD Lecture: Kiel Mutschelknaus](https://youtu.be/u98hjQusdEU?si=f8f2l3EK_bad4VwY).
+
